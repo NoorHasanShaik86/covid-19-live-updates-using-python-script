@@ -72,7 +72,7 @@ Installation of numpy :-
     pip3 install numpy
     
     
-For more detailed view plz visit our youtube channel Code With Us
+For more detailed view plz visit our youtube channel Code With Us  https://youtu.be/Wupi3a0m94o
 
 Thank You
     
